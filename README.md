@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey there! I'm **Sylvain** 👋  
 
-<!--
-**sylvain230/Sylvain230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Fullstack dev with a soft spot for all things **blockchain**  
+🛠️ I build, break stuff (sometimes), and learn along the way  
+🌍 This is my little corner of the internet to share personal projects and experiments  
+💡 Always up for cool ideas, side quests, and tech rabbit holes  
+☕ Let's connect if you're into Web3, code, or just want to geek out!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Salut, moi c’est **Sylvain** 👋  
+
+🧑‍💻 Développeur **fullstack** passionné par la **blockchain**  
+🛠️ Je crée, j’expérimente, et j’apprends en chemin  
+🌍 Ici, tu trouveras mes projets persos, mes tests, et mes idées un peu dingues  
+💡 Toujours partant pour des idées originales, des side-projects ou des défis tech  
+☕ Si t’aimes le Web3, le code ou juste papoter dev, passe dire bonjour !
